@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="bootstrap:jar">
+    <output-path>$PROJECT_DIR$/build</output-path>
+    <root id="root">
+      <element id="archive" name="bootstrap.jar">
+        <element id="module-output" name="bootstrap" />
+      </element>
+    </root>
+  </artifact>
+</component>
